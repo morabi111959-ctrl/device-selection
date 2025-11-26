@@ -1,11 +1,11 @@
-body {
-    font-family: Arial;
-    padding: 20px;
+body { 
+    font-family: Arial; 
+    padding: 20px; 
 }
 
-.device-box {
-    border: 1px solid #ddd;
-    padding: 15px;
-    margin-bottom: 10px;
-    border-radius: 6px;
+.device-box { 
+    border: 1px solid #ddd; 
+    padding: 15px; 
+    margin-bottom: 10px; 
+    border-radius: 6px; 
 }
